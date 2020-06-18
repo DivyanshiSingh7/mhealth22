@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mhealth22/static/css/main.0abf91a1.chunk.css",
+    "main.js": "/mhealth22/static/js/main.efb56a74.chunk.js",
+    "main.js.map": "/mhealth22/static/js/main.efb56a74.chunk.js.map",
+    "runtime-main.js": "/mhealth22/static/js/runtime-main.eb6cf261.js",
+    "runtime-main.js.map": "/mhealth22/static/js/runtime-main.eb6cf261.js.map",
+    "static/js/2.94c44358.chunk.js": "/mhealth22/static/js/2.94c44358.chunk.js",
+    "static/js/2.94c44358.chunk.js.map": "/mhealth22/static/js/2.94c44358.chunk.js.map",
+    "index.html": "/mhealth22/index.html",
+    "precache-manifest.afdcf3d04cc28f29460e46f2ab4f8b60.js": "/mhealth22/precache-manifest.afdcf3d04cc28f29460e46f2ab4f8b60.js",
+    "service-worker.js": "/mhealth22/service-worker.js",
+    "static/css/main.0abf91a1.chunk.css.map": "/mhealth22/static/css/main.0abf91a1.chunk.css.map",
+    "static/js/2.94c44358.chunk.js.LICENSE.txt": "/mhealth22/static/js/2.94c44358.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mhealth22/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb6cf261.js",
+    "static/js/2.94c44358.chunk.js",
+    "static/css/main.0abf91a1.chunk.css",
+    "static/js/main.efb56a74.chunk.js"
+  ]
+}
